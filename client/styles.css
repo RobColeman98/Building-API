@@ -1,0 +1,17 @@
+body {
+    background-color: royalblue;
+}
+
+h1 {
+    text-align: center;
+    color: yellow;
+}
+
+#chirp-button{
+    margin-left: 10px;
+}
+
+#delete-chirp-button {
+    margin-left: 1000px;
+}
+
